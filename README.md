@@ -1,3 +1,5 @@
+JPG BMP TEXT
+
 PA9 to button to GND
 
 function button
